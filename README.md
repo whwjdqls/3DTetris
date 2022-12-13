@@ -2,6 +2,10 @@
 ## Hand controlled 3D Tetris
 This Repo contains the following
 1. C# scripts for implementing 3D tetris in unity
+* Handkeypoint
+* Menu
+* Tetris
+
 2. Hand pose recognition package
 * Hand pose recognition model
 * Making Custom Hand pose dataset
