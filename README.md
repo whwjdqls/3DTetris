@@ -28,6 +28,14 @@ what class are you collecting?
 ```
 type in the class number (label) of the hand pose you are trying to collect
 
+you can change the filming time and sleep time in order to control the number of data you will collect
+default setting are the following 
+```
+filming_time = 120
+sleep_time = 0.2
+```
+which means film for 120 seconds with 0.2 second period
+
 
 ---
 ## Communicate with Unity and control 3D tetris
