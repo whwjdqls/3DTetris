@@ -22,6 +22,12 @@ Run the following command to make custom dataset
 ```sh
 python makedataset.py 
 ```
+then the following will show on prompt
+```sh
+what class are you collecting?
+```
+type in the class number (label) of the hand pose you are trying to collect
+
 
 ---
 ## Communicate with Unity and control 3D tetris
