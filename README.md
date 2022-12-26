@@ -37,6 +37,7 @@ filming_time = 120
 sleep_time = 0.2
 ```
 which means film for 120 seconds with 0.2 second period
+
 ---
 ## Train Model
 With npy files made with makedataset.py train custum hand pose recognition model with train_np.ipynb
