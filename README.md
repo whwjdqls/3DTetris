@@ -40,7 +40,7 @@ which means film for 120 seconds with 0.2 second period
 
 ---
 ## Train Model
-With npy files made with makedataset.py train custum hand pose recognition model with train_np.ipynb
+With npy files made with makedataset.py train and save custom hand pose recognition model with train_np.ipynb
 
 ---
 ## Communicate with Unity and control 3D tetris
